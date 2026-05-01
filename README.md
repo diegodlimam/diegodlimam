@@ -3,11 +3,11 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <!-- Aquí puedes poner tus redes sociales -->
+  <!-- Aquí puedes insertar tus redes sociales -->
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/></a>
